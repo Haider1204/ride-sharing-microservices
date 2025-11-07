@@ -4,6 +4,8 @@
 
 Este proyecto implementa una arquitectura de microservicios para una plataforma de ride-sharing (tipo Uber) utilizando **AWS Lambda** y **API Gateway**. El sistema permite gestionar usuarios, conductores, viajes y pagos de manera independiente y escalable.
 
+Actualmente se encuentra desplegado en el API GATEWAY (https://3dldauav4a.execute-api.us-east-1.amazonaws.com/prod), este se eliminará el 7 de Diciembre del 2025. Para evitar sobre consumos y así mismo poder hacer uso desde local. Ver (## 🚀 Guía de Uso - Ejemplos)
+
 ## 🎯 Metáfora de Diseño
 
 ### "Organización de pequeñas empresas independientes"
